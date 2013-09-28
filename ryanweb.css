@@ -1,5 +1,3 @@
-
-
 body {
 	color: yellow;
 	font-family: times new roman, times, serif;
@@ -40,28 +38,15 @@ a:link.resume , a:visited.resume  { color:black; text-decoration:underline; }
 a:hover, a:hover.resume { color: #FFFFFF; background-color: #87CEFA; text-decoration: underline; }	
 
 
-
-
-
-
-
-
 p.tag { text-align:center; font-size: 14pt; font-weight: normal; text-decoration: none; font-variant: small-caps; }
 a:link.tag, a:visited.tag { color:black; text-decoration: none; }
 a:hover.tag { color: #fff; background-color:#036; text-decoration: underline; }
 
 
 
-
-
-
-
-
 .printonly { display:none; }
 .pagebreak { display:none; }
 #printheader { display:none; }
-
-
 
 
 #top {width:1240px; margin:0 auto; background:#000000; border-left: solid 2px white; border-right: solid 2px white;  }
