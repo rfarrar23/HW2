@@ -1,9 +1,13 @@
+
+
 body {
 	color: yellow;
 	font-family: times new roman, times, serif;
 	font-size: 12pt;
 	margin: 0 auto;
 	}
+
+
 
 
 h1.title {
@@ -16,6 +20,8 @@ h1.title {
 	}
 
 
+
+
 h2.mainpage {
 	font-size: 16pt;
 	font-weight: bold;
@@ -26,10 +32,16 @@ h2.mainpage {
 }
 
 
+
+
 a { text-decoration:none; font-weight: none; }
 a:link, a:visited { color: #fff; }	
 a:link.resume , a:visited.resume  { color:black; text-decoration:underline; }	
 a:hover, a:hover.resume { color: #FFFFFF; background-color: #87CEFA; text-decoration: underline; }	
+
+
+
+
 
 
 
@@ -41,9 +53,15 @@ a:hover.tag { color: #fff; background-color:#036; text-decoration: underline; }
 
 
 
+
+
+
+
 .printonly { display:none; }
 .pagebreak { display:none; }
 #printheader { display:none; }
+
+
 
 
 #top {width:1240px; margin:0 auto; background:#000000; border-left: solid 2px white; border-right: solid 2px white;  }
@@ -59,3 +77,14 @@ a:hover.tag { color: #fff; background-color:#036; text-decoration: underline; }
 
 
 
+
+
+
+
+
+
+
+
+
+ 
+ 
