@@ -58,6 +58,7 @@ a:hover.tag { color: #fff; background-color:#036; text-decoration: underline; }
 #main { background:#000000; padding-left:10px; padding-right:10px;}
 #leftside {background:#000000; float:left; width:275px; padding:5px;  }
 #footer {background:#87CEFA; text-align:center; font-size:24pt; font-weight:bold; padding-top:2px; }
+#resume {width: 900px;}
 
 .pictures { border: solid 3px yellow; background: #87CEFA; width: 250px; padding: 10px; margin-right: auto; margin-left: auto; }
 
