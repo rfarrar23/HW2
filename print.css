@@ -1,0 +1,43 @@
+body { background: white; font-size: 10pt; font-family:Helvetica,Arial,'DejaVu Sans','Liberation Sans',Freesans,sans-serif; }
+
+img { display: none; }
+
+h1.title {
+	font-size: 48pt;
+	font-variant: small-caps;
+	font-weight: bold;
+	margin-top: 10px;
+	margin-bottom: 10px; 
+	text-align:center;
+	}
+	
+h2.mainpage {
+	font-size: 28pt;
+	font-weight: bold;
+	text-decoration: underline;
+	font-variant: small-caps;
+	padding-bottom: 0 auto;
+	margin-bottom: 0 auto;
+
+}
+h3.title2 { font-size: 18pt; font-variant: small-caps; }
+
+#header, #bar, #footer { display: none; }
+
+#top { width: auto;}
+
+#printheader { display:block; color:black; text-align:center; float:none !important; padding-top:10px; padding-bottom:0;}
+.printonly {display:block;}
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
